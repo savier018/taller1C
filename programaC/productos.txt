@@ -1,0 +1,4 @@
+PC Electrónica HP 12345 800.00 BodegaA
+Teléfono Móvil Tecnología 67890 500.00 BodegaB
+Televisor Electrónica Sony 13579 1200.00 BodegaC
+Auriculares Accesorios Sony 24680 300.00 BodegaA

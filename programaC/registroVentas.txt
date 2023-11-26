@@ -1,0 +1,3 @@
+Tienda1 rodrigodp 2023-01-01 500.00 10
+Tienda2 phils 2023-01-02 800.00 5
+Tienda3 phils 2023-01-03 1200.00 2
